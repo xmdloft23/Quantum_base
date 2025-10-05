@@ -1,11 +1,6 @@
 
-###   QUANTUM BASE
+###   QUANTUM BASE 
 
-
-<div align='center'>
-
-
-![WhatsApp API](https://github.com/Xmdloft23/quantumx5/blob/main/menu.jpg?raw=true)
 
 
 </div>
