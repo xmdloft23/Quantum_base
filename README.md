@@ -1,12 +1,12 @@
 
 
-# <div align='center'>WhatsApp Web API</div>
+# <div align='center>QUANTUM BASE</div>
 
 
 <div align='center'>
 
 
-![WhatsApp API](https://github.com/Danscot/Senku-v2/blob/main/menu.jpg?raw=true)
+![WhatsApp API](https://github.com/Xmdloft23/quantumx5/blob/main/menu.jpg?raw=true)
 
 
 </div>
@@ -46,7 +46,7 @@ Use the stable version:
 
 ```bash
 
-npm install @fizzxydev/baileys-pro
+npm install @loft/baileys-pro
 
 ```
 
@@ -64,7 +64,7 @@ Then import your code using:
 
 ```javascript
 
-const { default: makeWASocket } = require("@fizzxydev/baileys-pro")
+const { default: makeWASocket } = require("@loft/baileys-pro")
 
 ```
 
